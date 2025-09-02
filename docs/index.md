@@ -14,7 +14,7 @@ hero:
 
 features:
   - title: 友链 1
-    details: 欢迎报名参加湖南农业大学机器人小组，可以邮件 soilzhu80@gmail.com 咨询
+    details: 欢迎报名参加湖南农业大学机器人小组，关注微信公众号“湘农机器人ROBOCON”
   - title: 友链 2
     details: 暂时不知道放谁
   - title: 友链 3
