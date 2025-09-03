@@ -17,7 +17,7 @@ features:
     details: 欢迎报名参加湖南农业大学机器人小组，关注微信公众号“湘农机器人ROBOCON”
   - title: 友链 2
     details: 暂时不知道放谁
-  - title: 友链 3
-    details: 暂时不知道放谁
+  - title: 一起来编写这份文档！
+    details: 点击上方的“GitHub”按钮跳转
 ---
 
