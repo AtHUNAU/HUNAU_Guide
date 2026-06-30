@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "湖南农业大学杂项指北"
+  name: "湖南农业大学生存指北"
   actions:
     - theme: brand
       text: 开始阅读
